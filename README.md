@@ -28,3 +28,5 @@
 - [Cihad Turhan](http://cihadturhan.com/)
 - [Daniel Eden](https://daneden.me/)
 - [Georgi Nikoloff](http://gnikoloff.com/)
+- [Alex Motzenbecker](http://www.mstudio.com/)
+- [Claudio Calautti](http://claudiocalautti.cc/)
