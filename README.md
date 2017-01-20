@@ -30,3 +30,6 @@
 - [Georgi Nikoloff](http://gnikoloff.com/)
 - [Alex Motzenbecker](http://www.mstudio.com/)
 - [Claudio Calautti](http://claudiocalautti.cc/)
+- [Samuel Honigstein](http://samsy.ninja/)
+- [Corentin Fardeau](http://www.corentinfardeau.fr/)
+- [Damien Seguin](https://dmnsgn.me/)
