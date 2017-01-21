@@ -33,3 +33,5 @@
 - [Samuel Honigstein](http://samsy.ninja/)
 - [Corentin Fardeau](http://www.corentinfardeau.fr/)
 - [Damien Seguin](https://dmnsgn.me/)
+- [Jon Gold](http://jon.gold/)
+- [Baptiste Briel](http://bbriel.me/)
