@@ -35,3 +35,4 @@
 - [Damien Seguin](https://dmnsgn.me/)
 - [Jon Gold](http://jon.gold/)
 - [Baptiste Briel](http://bbriel.me/)
+- [Luigi De Rosa](http://luruke.com/)
