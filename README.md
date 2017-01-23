@@ -36,3 +36,7 @@
 - [Jon Gold](http://jon.gold/)
 - [Baptiste Briel](http://bbriel.me/)
 - [Luigi De Rosa](http://luruke.com/)
+- [Lucas Martin](http://lucasmartin.fr/)
+- [Armand Biteau](http://www.armandbiteau.com/)
+- [Terkel Gjervig](https://terkel.com/)
+- [Georg Fischer](https://fishnation.de/)
