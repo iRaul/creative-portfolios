@@ -46,3 +46,4 @@
 - [Robby Leonardi](http://www.rleonardi.com/)
 - [Bell Brothers](http://bellbros.com/)
 - [Adrian Zumbrunnen](https://azumbrunnen.me/)
+- [Lucas Mosele](http://lmosele.com/)
