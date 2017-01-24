@@ -40,3 +40,8 @@
 - [Armand Biteau](http://www.armandbiteau.com/)
 - [Terkel Gjervig](https://terkel.com/)
 - [Georg Fischer](https://fishnation.de/)
+- [Alexandra Fomicheva](http://alfoart.com/portfolio.html)
+- [Denys Nevozhai](http://dnevozhai.com/)
+- [Joan Chong](http://joanx.com/)
+- [Robby Leonardi](http://www.rleonardi.com/)
+- [Bell Brothers](http://bellbros.com/)
