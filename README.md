@@ -47,3 +47,4 @@
 - [Bell Brothers](http://bellbros.com/)
 - [Adrian Zumbrunnen](https://azumbrunnen.me/)
 - [Lucas Mosele](http://lmosele.com/)
+- [Gabrielle Wee](http://gabrielleismy.name/)
