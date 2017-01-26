@@ -58,3 +58,4 @@
 - [Clément Pavageau](http://kokopako.fr/)
 - [Danilo Figueiredo](http://www.grifo.tv/)
 - [Steven Mengin](https://stevenmengin.com/)
+- [Samuel Honigstein](http://samsy.ninja/)
