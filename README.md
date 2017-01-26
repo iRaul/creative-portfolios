@@ -48,3 +48,4 @@
 - [Adrian Zumbrunnen](https://azumbrunnen.me/)
 - [Lucas Mosele](http://lmosele.com/)
 - [Gabrielle Wee](http://gabrielleismy.name/)
+- [Robin Delaporte](http://robindelaporte.fr/)
