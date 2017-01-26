@@ -53,3 +53,4 @@
 - [Silvio Paganini](http://s2paganini.com/)
 - [Bruno Imbrizi](http://brunoimbrizi.com/)
 - [Du Haihang](http://www.duhaihang.com/portfolio/2016/)
+- [Edan Kwan](http://edankwan.com/)
