@@ -49,3 +49,4 @@
 - [Lucas Mosele](http://lmosele.com/)
 - [Gabrielle Wee](http://gabrielleismy.name/)
 - [Robin Delaporte](http://robindelaporte.fr/)
+- [Giulian Drimba](http://doublepi.me/)
