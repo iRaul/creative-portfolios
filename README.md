@@ -51,3 +51,4 @@
 - [Robin Delaporte](http://robindelaporte.fr/)
 - [Giulian Drimba](http://doublepi.me/)
 - [Silvio Paganini](http://s2paganini.com/)
+- [Bruno Imbrizi](http://brunoimbrizi.com/)
