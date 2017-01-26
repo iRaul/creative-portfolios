@@ -56,3 +56,4 @@
 - [Edan Kwan](http://edankwan.com/)
 - [Armand Biteau](http://armandbiteau.com/)
 - [Clément Pavageau](http://kokopako.fr/)
+- [Danilo Figueiredo](http://www.grifo.tv/)
