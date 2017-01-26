@@ -55,3 +55,4 @@
 - [Du Haihang](http://www.duhaihang.com/portfolio/2016/)
 - [Edan Kwan](http://edankwan.com/)
 - [Armand Biteau](http://armandbiteau.com/)
+- [Clément Pavageau](http://kokopako.fr/)
