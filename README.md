@@ -50,3 +50,4 @@
 - [Gabrielle Wee](http://gabrielleismy.name/)
 - [Robin Delaporte](http://robindelaporte.fr/)
 - [Giulian Drimba](http://doublepi.me/)
+- [Silvio Paganini](http://s2paganini.com/)
