@@ -6,6 +6,7 @@
 # Awesome Creative Portfolio Websites [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Developers/Designers
+
 - [Rogie King](http://rog.ie/)
 - [Natalya Shelburne](http://www.artist-developer.com/)
 - [Eli Fitch](http://eli.wtf/)
@@ -61,3 +62,8 @@
 - [Daniel Sternlicht](http://www.danielsternlicht.com/)
 - [CJ Gammon](http://www.cjgammon.com/)
 - [Steven Wittens](http://acko.net/)
+
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
