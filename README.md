@@ -62,6 +62,7 @@
 - [Daniel Sternlicht](http://www.danielsternlicht.com/)
 - [CJ Gammon](http://www.cjgammon.com/)
 - [Steven Wittens](http://acko.net/)
+- [Indrek Lasn](https://www.indreklasn.io/)
 
 
 ## License
