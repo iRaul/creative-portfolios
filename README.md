@@ -1,5 +1,5 @@
 ![Awesome Creative Portfolio Websites](bg.png)
->🎨 I made a list with some **Awesome Creative Portfolio Websites**, created by creative Developers/Designers.
+>🎨 A curated list of **Awesome Creative Portfolio Websites**, created by creative Developers/Designers.
 
 - Contributions are more than welcome. Please see [contribution guide](contributing.md).
 
