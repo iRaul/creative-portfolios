@@ -64,6 +64,7 @@
 - [Steven Wittens](http://acko.net/)
 - [Daniel Powell](http://danielpow.com)
 - [Sam Lord Flavin](http://www.samlordflavin.com)
+- [Devin Rousso](http://devinrousso.com/)
 
 
 ## License
