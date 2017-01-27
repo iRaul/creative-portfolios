@@ -63,6 +63,7 @@
 - [CJ Gammon](http://www.cjgammon.com/)
 - [Steven Wittens](http://acko.net/)
 - [Daniel Powell](http://danielpow.com)
+- [Sam Lord Flavin](http://www.samlordflavin.com)
 
 
 ## License
