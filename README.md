@@ -62,7 +62,7 @@
 - [Daniel Sternlicht](http://www.danielsternlicht.com/)
 - [CJ Gammon](http://www.cjgammon.com/)
 - [Steven Wittens](http://acko.net/)
-
+- [Richard Rodrigues](https://richard.gs/)
 
 ## License
 
