@@ -67,6 +67,8 @@
 - [Devin Rousso](http://devinrousso.com/)
 - [Richard Rodrigues](https://richard.gs/)
 - [Pierre Romera](http://www.pirhoo.com/)
+- [Kenji Saito](http://cs.kenji-special.info/)
+- [Irene Demetri](http://www.youandigraphics.com/)
 
 ## License
 
