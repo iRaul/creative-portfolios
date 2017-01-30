@@ -66,6 +66,7 @@
 - [Sam Lord Flavin](http://www.samlordflavin.com)
 - [Devin Rousso](http://devinrousso.com/)
 - [Richard Rodrigues](https://richard.gs/)
+- [Kitasenju Design](https://kitasenjudesign.com/)
 
 ## License
 
