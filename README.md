@@ -66,6 +66,7 @@
 - [Sam Lord Flavin](http://www.samlordflavin.com)
 - [Devin Rousso](http://devinrousso.com/)
 - [Richard Rodrigues](https://richard.gs/)
+- [Pierre Romera](http://www.pirhoo.com/)
 
 ## License
 
