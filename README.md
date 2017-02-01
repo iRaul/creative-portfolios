@@ -67,6 +67,7 @@
 - [Devin Rousso](http://devinrousso.com/)
 - [Richard Rodrigues](https://richard.gs/)
 - [Kitasenju Design](https://kitasenjudesign.com/)
+- [Shane Seminole Mielke](http://www.shanemielke.com/)
 
 ## License
 
