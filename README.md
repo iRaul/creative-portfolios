@@ -69,6 +69,7 @@
 - [Kitasenju Design](https://kitasenjudesign.com/)
 - [Shane Seminole Mielke](http://www.shanemielke.com/)
 - [Oleg Solomka](http://legomushroom.com/)
+- [Michal Hotovec](http://michalhotovec.com)
 
 ## License
 
