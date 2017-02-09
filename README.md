@@ -70,6 +70,7 @@
 - [Shane Seminole Mielke](http://www.shanemielke.com/)
 - [Oleg Solomka](http://legomushroom.com/)
 - [Jenny Johannesson](http://www.jennyjohannesson.com/)
+- [Denis Smirnov](https://densmirnov.com/)
 
 ## License
 
