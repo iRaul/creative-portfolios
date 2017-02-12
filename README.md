@@ -71,6 +71,7 @@
 - [Oleg Solomka](http://legomushroom.com/)
 - [Jenny Johannesson](http://www.jennyjohannesson.com/)
 - [Denis Smirnov](https://densmirnov.com/)
+- [Brittany Chiang](http://brittanychiang.com/)
 
 ## License
 
