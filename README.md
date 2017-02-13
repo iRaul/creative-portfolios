@@ -71,6 +71,7 @@
 - [Oleg Solomka](http://legomushroom.com/)
 - [Jenny Johannesson](http://www.jennyjohannesson.com/)
 - [Denis Smirnov](https://densmirnov.com/)
+- [Prashant Sani](https://prashantsani.com/)
 
 ## License
 
