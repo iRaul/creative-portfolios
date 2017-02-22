@@ -73,6 +73,7 @@
 - [Denis Smirnov](https://densmirnov.com/)
 - [Prashant Sani](https://prashantsani.com/)
 - [Matt Popovich](http://mattpopovich.com/)
+- [Jonathan Patterson](http://jonathanpatterson.com/)
 
 ## License
 
