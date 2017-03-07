@@ -76,6 +76,7 @@
 - [Jonathan Patterson](http://jonathanpatterson.com/)
 - [Lorenzo Bocchi](http://www.lorenzobocchi.com/2017/portfolio/)
 - [Jeremy Thomas](http://jgthms.com/)
+- [Joe Dakroub](http://dakroub.me/hypertext/WWW/)
 
 ## License
 
