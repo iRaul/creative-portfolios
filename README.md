@@ -77,6 +77,7 @@
 - [Lorenzo Bocchi](http://www.lorenzobocchi.com/2017/portfolio/)
 - [Jeremy Thomas](http://jgthms.com/)
 - [Joe Dakroub](http://dakroub.me/hypertext/WWW/)
+- [Shantell Martin](http://www.shantellmartin.art/)
 
 ## License
 
