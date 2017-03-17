@@ -78,6 +78,7 @@
 - [Jeremy Thomas](http://jgthms.com/)
 - [Joe Dakroub](http://dakroub.me/hypertext/WWW/)
 - [Shantell Martin](http://www.shantellmartin.art/)
+- [Keiran Lovett](http://keiran.me/)
 
 ## License
 
