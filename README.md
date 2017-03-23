@@ -80,6 +80,7 @@
 - [Shantell Martin](http://www.shantellmartin.art/)
 - [Keiran Lovett](http://keiran.me/)
 - [Mark Uraine](http://markuraine.com/)
+- [Patrick David](http://bepatrickdavid.com/)
 
 ## License
 
