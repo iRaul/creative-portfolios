@@ -81,6 +81,7 @@
 - [Keiran Lovett](http://keiran.me/)
 - [Mark Uraine](http://markuraine.com/)
 - [Patrick David](http://bepatrickdavid.com/)
+- [Paul Molluzzo](https://paul.molluzzo.com/)
 
 ## License
 
