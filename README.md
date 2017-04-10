@@ -82,6 +82,7 @@
 - [Mark Uraine](http://markuraine.com/)
 - [Patrick David](http://bepatrickdavid.com/)
 - [Paul Molluzzo](https://paul.molluzzo.com/)
+- [Helen Shewolfe Tseng](http://shewolfe.co/)
 
 ## License
 
