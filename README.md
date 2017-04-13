@@ -86,6 +86,11 @@
 - [Luke Hedger](http://level-out.com/)
 - [Pablo Cegarra](https://pablocegarra.com)
 
+## Author
+
+* https://twitter.com/raul_dronca
+* https://github.com/iRaul
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
