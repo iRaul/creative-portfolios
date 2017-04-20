@@ -85,6 +85,7 @@
 - [Helen Shewolfe Tseng](http://shewolfe.co/)
 - [Luke Hedger](http://level-out.com/)
 - [Pablo Cegarra](https://pablocegarra.com)
+- [Raoul Gaillard](https://www.raoul-gaillard.com/)
 
 ## Author
 
