@@ -86,6 +86,7 @@
 - [Luke Hedger](http://level-out.com/)
 - [Pablo Cegarra](https://pablocegarra.com)
 - [Raoul Gaillard](https://www.raoul-gaillard.com/)
+- [David DeSandro](http://desandro.com)
 
 ## Author
 
