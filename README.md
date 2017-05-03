@@ -87,6 +87,7 @@
 - [Pablo Cegarra](https://pablocegarra.com)
 - [Raoul Gaillard](https://www.raoul-gaillard.com/)
 - [Jack Kim](http://jackk.im/)
+- [Ahmed Islam](http://www.slamdesignz.com/)
 
 ## Author
 
