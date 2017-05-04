@@ -88,6 +88,7 @@
 - [Raoul Gaillard](https://www.raoul-gaillard.com/)
 - [Jack Kim](http://jackk.im/)
 - [Ahmed Islam](http://www.slamdesignz.com/)
+- [Joe Coleman](http://getcoleman.com/)
 
 ## Author
 
