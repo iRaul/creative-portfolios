@@ -89,6 +89,7 @@
 - [Jack Kim](http://jackk.im/)
 - [Ahmed Islam](http://www.slamdesignz.com/)
 - [Joe Coleman](http://getcoleman.com/)
+- [Nick Jones](http://www.narrowdesign.com/)
 
 ## Author
 
