@@ -90,6 +90,7 @@
 - [Ahmed Islam](http://www.slamdesignz.com/)
 - [Joe Coleman](http://getcoleman.com/)
 - [Nick Jones](http://www.narrowdesign.com/)
+- [Samuel Ramos](http://www.highfivebro.com/)
 
 ## Author
 
