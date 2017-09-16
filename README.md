@@ -9,6 +9,7 @@
 
 ## Developers/Designers
 
+- [Taurean Bryant](https://t-bryant.com)
 - [Rogie King](http://rog.ie/)
 - [Natalya Shelburne](http://www.artist-developer.com/)
 - [Eli Fitch](http://eli.wtf/)
