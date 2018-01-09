@@ -94,6 +94,7 @@
 - [Nick Jones](http://www.narrowdesign.com/)
 - [Samuel Ramos](http://www.highfivebro.com/)
 - [Rick Waalders](http://rickwaalders.com/)
+- [Suryansh Tiwari](http://suryanshtiwari.cleverapps.io/)
 
 ## Author
 
