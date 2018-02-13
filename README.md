@@ -94,7 +94,9 @@
 - [Nick Jones](http://www.narrowdesign.com/)
 - [Samuel Ramos](http://www.highfivebro.com/)
 - [Rick Waalders](http://rickwaalders.com/)
-- [Jay Hollywood] (https://humaan.com/) <!-- Rather than individuals portfolio, this is an agency portfolio, still worth mentioning. If this compilation is for individuals only, maybe create a category for agencies as well? Found these guys from --> (https://getterms.io/)
+
+## Creative Agencies & Studios
+- [Humaan] (https://humaan.com/) <!-- Rather than individuals portfolio, this is an agency portfolio, still worth mentioning. If this compilation is for individuals only, maybe create a category for agencies as well? Found these guys from --> (https://getterms.io/)
 
 ## Author
 
