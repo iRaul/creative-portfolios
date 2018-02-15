@@ -95,8 +95,12 @@
 - [Samuel Ramos](http://www.highfivebro.com/)
 - [Rick Waalders](http://rickwaalders.com/)
 
-## Creative Agencies & Studios
-- [Humaan] (https://humaan.com/) <!-- Rather than individuals portfolio, this is an agency portfolio, still worth mentioning. If this compilation is for individuals only, maybe create a category for agencies as well? Found these guys from --> (https://getterms.io/)
+## Creative Agencies
+- [Humaan](https://humaan.com/)
+- [Creative Navy](https://www.interface-design.co.uk/)
+- [North Kingdom](http://www.northkingdom.com/)
+- [Jellyfish](https://www.jellyfish.co.uk/)
+- [First Born](https://www.firstborn.com/)
 
 ## Author
 
