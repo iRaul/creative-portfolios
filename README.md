@@ -98,9 +98,10 @@
 ## Creative Agencies
 - [Humaan](https://humaan.com/)
 - [Creative Navy](https://www.interface-design.co.uk/)
-- [North Kingdom](http://www.northkingdom.com/)
-- [Jellyfish](https://www.jellyfish.co.uk/)
+- [Artists Web](https://www.artistsweb.cz/)
+- [Strange Love](http://pupcreativeagency.com/)
 - [First Born](https://www.firstborn.com/)
+- [Pup Creative Agency](http://pupcreativeagency.com/)
 
 ## Author
 
