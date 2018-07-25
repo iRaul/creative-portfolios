@@ -90,6 +90,7 @@
 - [Nick Jones](http://www.narrowdesign.com/)
 - [Samuel Ramos](http://www.highfivebro.com/)
 - [Rick Waalders](http://rickwaalders.com/)
+- [Robin Mastromarino](http://robinmastromarino.com/)
 
 ## Creative Agencies
 - [Bluegg](https://bluegg.co.uk/)
