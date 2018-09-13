@@ -10,6 +10,7 @@
 ## Developers/Designers
 
 - [Rogie King](http://rog.ie/)
+- [Amey Ambade](https://ameyxd.github.io/)
 - [Natalya Shelburne](http://www.artist-developer.com/)
 - [Eli Fitch](http://eli.wtf/)
 - [Jake Albaugh](http://jakealbaugh.com/)
