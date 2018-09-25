@@ -74,7 +74,7 @@
 - [Jonathan Patterson](http://jonathanpatterson.com/)
 - [Lorenzo Bocchi](http://www.lorenzobocchi.com/2017/portfolio/)
 - [Jeremy Thomas](http://jgthms.com/)
-- [Joe Dakroub](http://dakroub.me/hypertext/WWW/)
+- [Joe Dakroub](https://dakroub.me/)
 - [Shantell Martin](http://www.shantellmartin.art/)
 - [Keiran Lovett](http://keiran.me/)
 - [Mark Uraine](http://markuraine.com/)
