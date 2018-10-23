@@ -94,6 +94,7 @@
 - [Nick Jones](http://www.narrowdesign.com/)
 - [Samuel Ramos](http://www.highfivebro.com/)
 - [Rick Waalders](http://rickwaalders.com/)
+- [Jean-Baptiste Giffard](http://www.digitaldesigner.cool/)
 
 ## Creative Agencies
 - [Bluegg](https://bluegg.co.uk/)
@@ -103,6 +104,7 @@
 - [Strange Love](http://strangelove.co/)
 - [First Born](https://www.firstborn.com/)
 - [Pup Creative Agency](http://pupcreativeagency.com/)
+- [Lobods](https://lobods.com/en/)
 
 ## Author
 
