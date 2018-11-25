@@ -88,15 +88,16 @@
 - [Nick Jones](http://www.narrowdesign.com/)
 - [Samuel Ramos](http://www.highfivebro.com/)
 - [Rick Waalders](http://rickwaalders.com/)
+- [Jean-Baptiste Giffard](http://www.digitaldesigner.cool/)
 
 ## Creative Agencies
 - [Bluegg](https://bluegg.co.uk/)
 - [Humaan](https://humaan.com/)
 - [Creative Navy](https://www.interface-design.co.uk/)
 - [Artists Web](https://www.artistsweb.cz/)
-- [Strange Love](http://pupcreativeagency.com/)
 - [First Born](https://www.firstborn.com/)
 - [Pup Creative Agency](http://pupcreativeagency.com/)
+- [Lobods](https://lobods.com/en/)
 
 ## Author
 
