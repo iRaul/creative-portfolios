@@ -101,7 +101,6 @@
 - [Humaan](https://humaan.com/)
 - [Creative Navy](https://www.interface-design.co.uk/)
 - [Artists Web](https://www.artistsweb.cz/)
-- [Strange Love](http://strangelove.co/)
 - [First Born](https://www.firstborn.com/)
 - [Pup Creative Agency](http://pupcreativeagency.com/)
 - [Lobods](https://lobods.com/en/)
