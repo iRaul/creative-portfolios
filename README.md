@@ -9,6 +9,7 @@
 
 ## Developers/Designers
 
+- [Ameer Jhan](https://ameerthehacker.github.io/portfolio-os/)
 - [Rogie King](http://rog.ie/)
 - [Natalya Shelburne](http://www.artist-developer.com/)
 - [Eli Fitch](http://eli.wtf/)
