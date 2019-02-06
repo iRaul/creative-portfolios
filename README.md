@@ -105,6 +105,8 @@
 - [First Born](https://www.firstborn.com/)
 - [Pup Creative Agency](http://pupcreativeagency.com/)
 - [Lobods](https://lobods.com/en/)
+- [Okalpha](https://www.okalpha.co/)
+- [Synerghetic](https://synerghetic.net/)
 
 ## Author
 
