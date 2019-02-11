@@ -89,6 +89,7 @@
 - [Samuel Ramos](http://www.highfivebro.com/)
 - [Rick Waalders](http://rickwaalders.com/)
 - [Jean-Baptiste Giffard](http://www.digitaldesigner.cool/)
+- [Tyler Sticka](https://tylersticka.com/)
 
 ## Creative Agencies
 - [Bluegg](https://bluegg.co.uk/)
@@ -98,6 +99,8 @@
 - [First Born](https://www.firstborn.com/)
 - [Pup Creative Agency](http://pupcreativeagency.com/)
 - [Lobods](https://lobods.com/en/)
+- [Okalpha](https://www.okalpha.co/)
+- [Synerghetic](https://synerghetic.net/)
 
 ## Author
 
