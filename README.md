@@ -90,6 +90,7 @@
 - [Rick Waalders](http://rickwaalders.com/)
 - [Jean-Baptiste Giffard](http://www.digitaldesigner.cool/)
 - [Tyler Sticka](https://tylersticka.com/)
+- [Subhro Chatterjee](https://subhrotechinfo.github.io/subhrochatterjee.github.io/)
 
 ## Creative Agencies
 - [Bluegg](https://bluegg.co.uk/)
