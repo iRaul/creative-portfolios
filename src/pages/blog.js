@@ -1,6 +1,7 @@
 /* eslint-disable react-hooks/rules-of-hooks */
 import React from 'react'
 import { Link, useStaticQuery, graphql } from 'gatsby'
+import Img from 'gatsby-image'
 import Layout from '../components/layout'
 
 const blog = () => {
@@ -11,6 +12,13 @@ const blog = () => {
           node {
             frontmatter {
               title
+              image {
+                childImageSharp {
+                  fluid(maxWidth: 600) {
+                    ...GatsbyImageSharpFluid
+                  }
+                }
+              }
             }
             id
           }
@@ -19,7 +27,9 @@ const blog = () => {
     }
   `)
 
-  console.log(data)
+  data.allMarkdownRemark.edges.map(edge =>
+    console.log(edge.node.frontmatter.image.childImageSharp.fluid)
+  )
 
   return (
     <Layout>
@@ -27,7 +37,10 @@ const blog = () => {
       <h1>Writings</h1>
 
       {data.allMarkdownRemark.edges.map(edge => (
-        <h2 key={edge.node.id}>{edge.node.frontmatter.title}</h2>
+        <div>
+          <Img fluid={edge.node.frontmatter.image.childImageSharp.fluid} />
+          <h2 key={edge.node.id}>{edge.node.frontmatter.title}</h2>
+        </div>
       ))}
     </Layout>
   )

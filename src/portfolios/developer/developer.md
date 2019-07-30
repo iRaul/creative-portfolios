@@ -1,6 +1,7 @@
 ---
 title: "Developer"
 date: "2019-04-05"
+image: ./pic.jpg
 ---
 
 I'm a UI Developer
