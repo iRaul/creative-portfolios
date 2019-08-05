@@ -1,30 +1,58 @@
 /* eslint-disable react-hooks/rules-of-hooks */
-
 import React from 'react'
-import { Link, graphql, useStaticQuery } from 'gatsby'
-import Layout from '../components/layout'
-import Head from '../components/head'
+import { Link, useStaticQuery, graphql } from 'gatsby'
+import Img from 'gatsby-image'
+import './index.css'
 
-const index = () => {
+import PortfoliosList from '../components/PortfoliosList'
+import Portfolio from '../components/PortfolioItem'
+import Container from '../components/Container'
+import PortfolioItem from '../components/PortfolioItem'
+
+const blog = () => {
   const data = useStaticQuery(graphql`
-    query {
-      site {
-        siteMetadata {
-          title
-          author
+    {
+      allMarkdownRemark {
+        edges {
+          node {
+            fields {
+              slug
+            }
+            frontmatter {
+              title
+              image {
+                childImageSharp {
+                  fluid(maxWidth: 200, maxHeight: 140) {
+                    ...GatsbyImageSharpFluid
+                  }
+                }
+              }
+            }
+            id
+          }
         }
       }
     }
   `)
 
+  data.allMarkdownRemark.edges.map(item => console.log(item))
+
   return (
-    <Layout>
-      <Head title="Home" />
-      <h1>Hello.</h1>
-      <h2>I'm {data.site.siteMetadata.author}</h2>
-      <Link to="/blog">Writing ✍</Link>
-    </Layout>
+    <Container>
+      <h1>Creative Portfolios</h1>
+
+      <PortfoliosList>
+        {data.allMarkdownRemark.edges.map(edge => (
+          <PortfolioItem>
+            <Img fluid={edge.node.frontmatter.image.childImageSharp.fluid} />
+            <Link to={`/${edge.node.fields.slug}`} key={edge.node.id}>
+              {edge.node.frontmatter.title}
+            </Link>
+          </PortfolioItem>
+        ))}
+      </PortfoliosList>
+    </Container>
   )
 }
 
-export default index
+export default blog
