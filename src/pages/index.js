@@ -5,9 +5,8 @@ import Img from 'gatsby-image'
 import './index.css'
 
 import PortfoliosList from '../components/PortfoliosList'
-import Portfolio from '../components/PortfolioItem'
-import Container from '../components/Container'
 import PortfolioItem from '../components/PortfolioItem'
+import Container from '../components/Container'
 
 const blog = () => {
   const data = useStaticQuery(graphql`
@@ -22,7 +21,7 @@ const blog = () => {
               title
               image {
                 childImageSharp {
-                  fluid(maxWidth: 200, maxHeight: 140) {
+                  fluid(maxWidth: 800, maxHeight: 480, quality: 100) {
                     ...GatsbyImageSharpFluid
                   }
                 }
