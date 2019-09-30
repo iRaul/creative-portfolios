@@ -90,6 +90,7 @@
 - [Rick Waalders](http://rickwaalders.com/)
 - [Jean-Baptiste Giffard](http://www.digitaldesigner.cool/)
 - [Tyler Sticka](https://tylersticka.com/)
+- [Hitesh Sahu](http://hiteshsahu.com/)
 
 ## Creative Agencies
 - [Bluegg](https://bluegg.co.uk/)
