@@ -34,8 +34,6 @@ const blog = () => {
     }
   `)
 
-  data.allMarkdownRemark.edges.map(item => console.log(item))
-
   return (
     <Container>
       <h1>Creative Portfolios</h1>
@@ -43,8 +41,9 @@ const blog = () => {
       <PortfoliosList>
         {data.allMarkdownRemark.edges.map(edge => (
           <PortfolioItem>
-            <Img fluid={edge.node.frontmatter.image.childImageSharp.fluid} />
             <Link to={`/${edge.node.fields.slug}`} key={edge.node.id}>
+              <Img fluid={edge.node.frontmatter.image.childImageSharp.fluid} />
+
               {edge.node.frontmatter.title}
             </Link>
           </PortfolioItem>
