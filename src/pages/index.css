@@ -1,5 +1,6 @@
 /* Basic Config
 -------------------- */
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,600,900&display=swap');
 
 html,
 body {
@@ -17,12 +18,31 @@ html {
 }
 
 body {
-  font-family: "Roboto", sans-serif;
-  background: rgb(242, 246, 250);
+  font-family: 'Raleway', sans-serif;
+  background-color: #0c0d17;
   -webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
 
 p {
   line-height: 1.4;
+}
+
+.back-btn {
+  height: 40px;
+  width: 40px;
+  background: linear-gradient(to right, #f093fb 0%, #f5576c 100%);
+  display: block;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.back-btn svg {
+  transition: transform .3s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+.back-btn:hover svg {
+  transform: translateX(-5px);
 }
