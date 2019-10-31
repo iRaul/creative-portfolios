@@ -91,8 +91,10 @@
 - [Jean-Baptiste Giffard](http://www.digitaldesigner.cool/)
 - [Tyler Sticka](https://tylersticka.com/)
 - [Sarah Drasner](https://sarah.dev/)
+- [Bruno Simon](https://bruno-simon.com/)
 
 ## Creative Agencies
+
 - [Bluegg](https://bluegg.co.uk/)
 - [Humaan](https://humaan.com/)
 - [Creative Navy](https://www.interface-design.co.uk/)
