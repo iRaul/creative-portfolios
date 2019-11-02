@@ -2,12 +2,11 @@
 1. **Creative Portfolios** IS NOT FOR SELF-PROMOTION!
 2. The content of the portfolio is not relevent.
 3. Please compare your portfolio with the existing ones.
-
-> Make sure the portfolio meet any of this descriptors:
-- [x] Creative/Cool
-- [x] Unique/Original
-- [x] Beautiful
-- [x] Expertly executed
+4. Make sure the portfolio meet any of this descriptors:
+  - [x] Creative/Cool
+  - [x] Unique/Original
+  - [x] Beautiful
+  - [x] Expertly executed
 
 # Contribution Guidelines
 - Search previous suggestions before making a new one, as yours may be a duplicate.
