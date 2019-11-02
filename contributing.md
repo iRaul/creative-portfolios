@@ -3,7 +3,7 @@
 2. The content of the portfolio is not relevent.
 3. Please compare your portfolio with the existing ones.
 
-* Make the portfolio meet any of this descriptors:
+# Make the portfolio meet any of this descriptors:
 - [x] Creative/Cool
 - [x] Unique/Original
 - [x] Beautiful
