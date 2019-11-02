@@ -5,7 +5,7 @@ const Title = styled.h1`
   background: linear-gradient(to right, #f093fb 0%, #f5576c 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  font-size: 7vw;
+  font-size: 6.4rem;
   font-weight: 900;
   text-transform: lowercase;
   margin-bottom: 0;

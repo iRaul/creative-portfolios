@@ -3,7 +3,7 @@ import styled from 'styled-components'
 const PortfolioName = styled.h2`
   color: #fff;
   text-align: center;
-  font-size: 4vw;
+  font-size: 3.4rem;
   margin-bottom: 0;
 `
 

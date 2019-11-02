@@ -9,6 +9,7 @@ import PortfoliosList from '../components/PortfoliosList'
 import PortfolioItem from '../components/PortfolioItem'
 import Container from '../components/Container'
 import SubTitle from '../components/SubTitle'
+import Footer from '../components/Footer'
 import Title from '../components/Title'
 
 const blog = () => {
@@ -40,6 +41,7 @@ const blog = () => {
   return (
     <Container>
       <Title>Creative Portfolios</Title>
+
       <SubTitle>
         Is a curation of the most creative portfolios made by{' '}
         <span>designers</span> & <span>developers</span>.
@@ -53,6 +55,10 @@ const blog = () => {
                 className="portfolio-item"
                 tiltMaxAngleX={2}
                 tiltMaxAngleY={2}
+                glareEnable
+                glareMaxOpacity={0.2}
+                glareColor="#ffffff"
+                glarePosition="all"
               >
                 <Img
                   fluid={edge.node.frontmatter.image.childImageSharp.fluid}
@@ -65,6 +71,8 @@ const blog = () => {
           </PortfolioItem>
         ))}
       </PortfoliosList>
+
+      <Footer />
     </Container>
   )
 }

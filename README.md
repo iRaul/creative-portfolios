@@ -1,6 +1,23 @@
-## 🚀 Dev
- ```sh
-  gatsby develop
+# Creative Portfolios 🌀
+> This project was created with [React](https://reactjs.org/), [Gatsby](https://www.gatsbyjs.org/) and [GraphQL](https://graphql.org/).
+- Contributions are more than welcome. Please see [contribution guide](contributing.md).
+
+![Creative Portfolios](static/creative-portfolios.png)
+
+### Install ⚙️
+
+```
+npm install / yarn install
 ```
 
-Your site is now running at `http://localhost:8000`
+### Start 🏃
+
+```
+npm run develop / yarn develop
+```
+
+### Build 😷
+
+```
+npm run build / yarn build
+```

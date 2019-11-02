@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 const SubTitle = styled.h2`
-  font-size: 3.1vw;
+  font-size: 3rem;
   margin-top: 6px;
   margin-bottom: 60px;
   color: rgba(255, 255, 255, 1);

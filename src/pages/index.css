@@ -11,6 +11,7 @@ body {
 
 html {
   box-sizing: border-box;
+  font-size: 16px;
 }
 
 *, *:before, *:after {
@@ -28,19 +29,26 @@ p {
   line-height: 1.4;
 }
 
+/* Responsive */
+@media (max-width: 768px) {
+  html { font-size: 9px; }
+  .back-btn { font-size: 16px; }
+}
+
+/* Back Button */
 .back-btn {
-  height: 40px;
-  width: 40px;
-  background: linear-gradient(to right, #f093fb 0%, #f5576c 100%);
-  display: block;
-  border-radius: 50%;
+  width: 100px;
   display: flex;
-  justify-content: center;
   align-items: center;
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 600;
 }
 
 .back-btn svg {
   transition: transform .3s cubic-bezier(0.165, 0.84, 0.44, 1);
+  margin-right: 10px;
 }
 
 .back-btn:hover svg {

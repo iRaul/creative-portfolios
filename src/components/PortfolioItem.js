@@ -1,8 +1,9 @@
 import styled from 'styled-components'
 
 const PortfolioItem = styled.div`
-  img {
+  .portfolio-item {
     border-radius: 4px;
+    overflow: hidden;
   }
 `
 
