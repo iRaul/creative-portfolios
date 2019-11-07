@@ -37,6 +37,9 @@ module.exports = {
               linkImagesToOriginal: false,
             },
           },
+          {
+            resolve: `gatsby-plugin-styled-components`,
+          },
         ],
       },
     },
