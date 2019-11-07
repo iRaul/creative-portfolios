@@ -4,6 +4,7 @@ import { Link, useStaticQuery, graphql } from 'gatsby'
 import Img from 'gatsby-image'
 import Tilt from 'react-parallax-tilt'
 
+import Head from './head'
 import GlobalStyle from './global'
 import PortfoliosList from '../components/PortfoliosList'
 import PortfolioItem from '../components/PortfolioItem'
@@ -42,6 +43,8 @@ const blog = () => {
   return (
     <>
       <GlobalStyle />
+
+      <Head />
 
       <ContributeBtn href="https://github.com/iRaul/creative-portfolios" />
 

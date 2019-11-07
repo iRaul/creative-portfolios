@@ -13,6 +13,26 @@ const ContributeBtnStyle = styled.a`
   align-items: center;
   border: 1px solid #fff;
   cursor: pointer;
+
+  &:hover {
+    &:before {
+      opacity: 1;
+      visibility: visible;
+    }
+  }
+
+  &:before {
+    content: 'Contribute';
+    position: absolute;
+    left: -115px;
+    background-color: #fff;
+    padding: 8px 12px;
+    border-radius: 4px;
+    color: #333;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+  }
 `
 
 const ContributeBtn = ({ href }) => (
