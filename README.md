@@ -4,6 +4,7 @@
 
 ![Creative Portfolios](static/creative-portfolios.png)
 
+### Install ⚙️
 ```
 npm install / yarn install
 ```
