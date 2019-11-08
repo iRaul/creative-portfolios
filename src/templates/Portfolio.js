@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link, graphql } from 'gatsby'
 
+import Head from '../pages/head'
 import GlobalStyle from '../pages/global'
 import PortfolioName from '../components/PortfolioName'
 import PortfolioPage from '../components/PortfolioPage'
@@ -20,6 +21,9 @@ export const query = graphql`
 const Portfolio = ({ data }) => (
   <>
     <GlobalStyle />
+
+    <Head />
+
     <Container>
       <Link to="/">
         <BackBtn />
