@@ -5,4 +5,4 @@ image: ./fabio-ottaviani-portfolio.png
 
 [Visit Live](http://www.supah.it/)
 
-`video: https://drive.google.com/uc?id=1jASnd_Dko-kHRWoa-4UreftLa2wIEVII`
+`video: https://content.jwplatform.com/videos/EzvCk3dx-zy3jY9W4.mp4`

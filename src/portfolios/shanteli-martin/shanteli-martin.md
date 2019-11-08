@@ -5,4 +5,4 @@ image: ./shanteli-martin-portfolio.png
 
 [Visit Live](https://shantellmartin.art/)
 
-`video: https://drive.google.com/uc?id=1JLwYGopcZ7iUiRWGmf3p2Boy7XBcYRbt`
+`video: https://content.jwplatform.com/videos/81xQfz94-zy3jY9W4.mp4`e

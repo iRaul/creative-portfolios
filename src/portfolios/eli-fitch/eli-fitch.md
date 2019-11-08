@@ -5,4 +5,4 @@ image: ./eli-fitch-portfolio.png
 
 [Visit Live](http://eli.wtf/)
 
-`video: https://drive.google.com/uc?id=1nLas71Urh6A9j6wBtoxa9L6OEtwUEuid`
+`video: https://content.jwplatform.com/videos/fD2nqyWq-zy3jY9W4.mp4`
