@@ -46,7 +46,7 @@ const blog = () => {
 
       <Head />
 
-      <ContributeBtn href="https://github.com/iRaul/creative-portfolios" />
+      <ContributeBtn href="https://github.com/iRaul/creative-portfolios/blob/master/contributing.md" />
 
       <Container>
         <Title>Creative Portfolios</Title>
