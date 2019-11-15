@@ -2,7 +2,7 @@
 > This project was created with [React](https://reactjs.org/), [Gatsby](https://www.gatsbyjs.org/) and [GraphQL](https://graphql.org/).
 - Contributions are more than welcome. Please see [contribution guide](contributing.md).
 
-![Creative Portfolios](static/cp-screenshot.png)
+![Creative Portfolios](static/cp-screenshot-2.png)
 
 ### Install ⚙️
 ```
