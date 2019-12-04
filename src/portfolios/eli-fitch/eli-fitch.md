@@ -1,6 +1,7 @@
 ---
 title: "Eli Fitch"
 image: ./eli-fitch-portfolio.png
+date: '2019-11-28'
 ---
 
 [Visit Live](http://eli.wtf/)

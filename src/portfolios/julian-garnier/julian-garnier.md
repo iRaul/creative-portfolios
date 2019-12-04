@@ -1,6 +1,7 @@
 ---
 title: "Julian Garnier"
 image: ./julian-garnier.png
+date: '2019-11-28'
 ---
 
 [Visit Live](https://juliangarnier.com/)

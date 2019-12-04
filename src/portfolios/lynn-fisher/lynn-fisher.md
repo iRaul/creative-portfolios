@@ -1,6 +1,7 @@
 ---
 title: "Lynn Fisher"
 image: ./lynn-fisher.png
+date: '2019-12-04'
 ---
 
 [Visit Live](https://lynnandtonic.com/)

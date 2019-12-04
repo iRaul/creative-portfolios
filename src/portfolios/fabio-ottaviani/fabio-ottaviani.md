@@ -1,6 +1,7 @@
 ---
 title: "Fabio Ottaviani"
 image: ./fabio-ottaviani-portfolio.png
+date: '2019-11-28'
 ---
 
 [Visit Live](http://www.supah.it/)

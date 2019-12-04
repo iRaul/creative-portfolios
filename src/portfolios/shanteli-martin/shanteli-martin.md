@@ -1,6 +1,7 @@
 ---
 title: "Shanteli Martin"
 image: ./shanteli-martin-portfolio.png
+date: '2019-12-02'
 ---
 
 [Visit Live](https://shantellmartin.art/)

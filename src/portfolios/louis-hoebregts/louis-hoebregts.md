@@ -1,6 +1,7 @@
 ---
 title: "Louis Hoebregts"
 image: ./louis-hoebregts.png
+date: '2019-11-28'
 ---
 
 [Visit Live](https://mamboleoo.be/)

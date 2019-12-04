@@ -1,6 +1,7 @@
 ---
 title: "Rogie King"
 image: ./rogie-king-portfolio.png
+date: '2019-12-02'
 ---
 
 [Visit Live](https://rog.ie/)

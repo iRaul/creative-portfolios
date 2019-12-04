@@ -17,7 +17,7 @@ import Title from '../components/Title'
 const blog = () => {
   const data = useStaticQuery(graphql`
     {
-      allMarkdownRemark {
+      allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
         edges {
           node {
             fields {
