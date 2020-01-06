@@ -4,6 +4,17 @@
 
 ![Creative Portfolios](static/cp-screenshot-2.png)
 
+### Portfolios ✨
+- [Lynn Fisher](https://lynnandtonic.com/)
+- [Rogie King](https://rog.ie/)
+- [Shanteli Martin](https://shantellmartin.art/)
+- [Pierre Reimertz](https://www.reimertz.co/)
+- [Nick Jones](http://www.narrowdesign.com/)
+- [Eli Fitch](http://eli.wtf/)
+- [Fabio Ottaviani](http://www.supah.it/)
+- [Julian Garnier](https://juliangarnier.com/)
+- [Louis Hoebregts](https://mamboleoo.be/)
+
 ### Install ⚙️
 ```
 npm install / yarn install
