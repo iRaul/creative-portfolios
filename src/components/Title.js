@@ -9,6 +9,8 @@ const Title = styled.h1`
   font-weight: 900;
   text-transform: lowercase;
   margin-bottom: 0;
+  line-height: 1;
+  margin-bottom: 20px;
 `
 
 export default Title
