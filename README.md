@@ -5,6 +5,7 @@
 ![Creative Portfolios](static/cp-screenshot-2.png)
 
 ### Portfolios ✨
+- [Diana Ilithya](https://www.ilithya.rocks/)
 - [Bruno Simon](https://bruno-simon.com/)
 - [Lynn Fisher](https://lynnandtonic.com/)
 - [Rogie King](https://rog.ie/)
