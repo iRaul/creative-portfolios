@@ -5,6 +5,7 @@
 ![Creative Portfolios](static/cp-screenshot-2.png)
 
 ### Portfolios ✨
+- [Danny Garcia](https://danny-garcia.com/)
 - [Diana Ilithya](https://www.ilithya.rocks/)
 - [Bruno Simon](https://bruno-simon.com/)
 - [Lynn Fisher](https://lynnandtonic.com/)
