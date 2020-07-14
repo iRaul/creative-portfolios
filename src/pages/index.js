@@ -46,20 +46,20 @@ const blog = () => {
 
       <Head />
 
-      <ContributeBtn href="https://github.com/iRaul/creative-portfolios/blob/master/contributing.md" />
 
       <Container>
-        <Title>Creative Portfolios</Title>
 
+        <Title>Helena Best Portfolio Eva</Title>
         <SubTitle>
-          Is a curation of the most creative portfolios made by{' '}
-          <span>designers</span> & <span>developers</span>.
+          
+          <span>dadasda</span>
         </SubTitle>
 
         <PortfoliosList>
           {data.allMarkdownRemark.edges.map(edge => (
             <PortfolioItem key={edge.node.id}>
               <Link to={`/${edge.node.fields.slug}`}>
+
                 <Tilt
                   className="portfolio-item"
                   tiltMaxAngleX={2}

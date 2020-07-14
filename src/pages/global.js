@@ -1,7 +1,8 @@
 import { createGlobalStyle } from 'styled-components'
 
 const GlobalStyle = createGlobalStyle`
-  @import url('https://fonts.googleapis.com/css?family=Raleway:400,600,900&display=swap');
+  @import url('https://fonts.googleapis.com/css?family=Open Sans:400,600,900&display=swap');
+  @import url('https://fonts.googleapis.com/css?family=VT323:400,600,900&display=swap');
 
   html,
   body {
@@ -12,7 +13,7 @@ const GlobalStyle = createGlobalStyle`
 
   html {
     box-sizing: border-box;
-    font-size: 16px;
+    font-size: 1em;
   }
 
   *, *:before, *:after {
@@ -20,7 +21,7 @@ const GlobalStyle = createGlobalStyle`
   }
 
   body {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'VT323', monospace;
     background-color: #0c0d17;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -30,8 +31,13 @@ const GlobalStyle = createGlobalStyle`
     text-decoration: none;
   }
 
+  .muted {
+    font-family: 'Open Sans', sans serif;
+}
+
   p {
     line-height: 1.4;
+    color: #fff;
   }
 
   /* Responsive */
@@ -47,6 +53,7 @@ const GlobalStyle = createGlobalStyle`
     text-decoration: none;
     text-transform: lowercase;
   }
+
 `
 
 export default GlobalStyle

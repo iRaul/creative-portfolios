@@ -15,7 +15,7 @@ const Copyright = styled.span`
 
 const Footer = () => (
   <FooterWrapper>
-    <Copyright>All screenshots © of their respective owners.</Copyright>
+    <Copyright>Helena.</Copyright>
   </FooterWrapper>
 )
 
