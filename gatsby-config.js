@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/helena`,
   siteMetadata: {
     title: 'Creative Portfolios',
     author: 'Raul Dronca',
