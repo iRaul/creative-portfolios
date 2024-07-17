@@ -6,6 +6,7 @@
 
 ### Portfolios ✨
 - [Danny Garcia](https://danny-garcia.com/)
+- [Dhanush Nehru](https://chat-portfolio-dhanushnehru.netlify.app/)
 - [Diana Ilithya](https://www.ilithya.rocks/)
 - [Bruno Simon](https://bruno-simon.com/)
 - [Lynn Fisher](https://lynnandtonic.com/)
